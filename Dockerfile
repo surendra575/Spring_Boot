@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:19
 
 COPY target/Spring_Boot_App.jar /usr/app/
 
